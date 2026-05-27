@@ -25,15 +25,15 @@ A lightweight, event-driven RPG game built with Python and PyQt6. This project d
 ## 🎯 Gameplay Screenshots
 
 ### Main Menu
-![Main Menu](screenshot1.png)
+![Main Menu](main_menu.png)
 *Navigate between Fight, Shop, Stats, and Exit options*
 
 ### Combat System
-![Combat](screenshot2.png)
+![Combat](battle.png)
 *Face challenging enemies with real-time health visualization and tactical choices*
 
 ### Shop
-![Shop](screenshot3.png)
+![Shop](shop.png)
 *Purchase potions and armor to strengthen your character*
 
 ---
