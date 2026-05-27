@@ -4,13 +4,13 @@
 ![PyQt6](https://img.shields.io/badge/PyQt6-GUI-green?style=for-the-badge&logo=qt)
 ![Portfolio Project](https://img.shields.io/badge/Status-Portfolio_Project-orange?style=for-the-badge)
 
-A lightweight, event-driven RPG game built with Python and PyQt6. This project demonstrates **Object-Oriented Programming (OOP)**, **Event-Driven UI architecture**, and **dynamic SVG rendering** for creating responsive, scalable graphics.
+A lightweight, event-driven RPG game built with Python and PyQt6. This project demonstrates **Object-Oriented Programming (OOP)**, **Event-Driven UI architecture**, and **dynamic SVG rendering** for creating engaging game graphics.
 
 ---
 
 ## ✨ Key Features
 
-- **🎨 Dynamic SVG Rendering:** Game graphics (player, enemies, health bars) are generated mathematically in real-time via SVG XML, directly responding to game state changes—no static image files needed!
+- **🎨 Dynamic SVG Rendering:** Game graphics (player, enemies, health bars) are generated mathematically in real-time via SVG XML, directly responding to game state changes—no static image files needed
 - **⚡ Event-Driven Architecture:** Leverages PyQt6's Signal and Slot mechanisms instead of traditional game loops for smooth, responsive UI interactions
 - **🌍 Bilingual Support (i18n):** Full localization for **English** and **Russian**, cleanly separated from core logic
 - **🎮 RPG Mechanics:** 
@@ -25,15 +25,15 @@ A lightweight, event-driven RPG game built with Python and PyQt6. This project d
 ## 🎯 Gameplay Screenshots
 
 ### Main Menu
-![Main Menu](main_menu.png)
+![Main Menu](images/Main%20Menu.png)
 *Navigate between Fight, Shop, Stats, and Exit options*
 
 ### Combat System
-![Combat](battle.png)
+![Combat](images/Battle.png)
 *Face challenging enemies with real-time health visualization and tactical choices*
 
 ### Shop
-![Shop](shop.png)
+![Shop](images/Shop.png)
 *Purchase potions and armor to strengthen your character*
 
 ---
@@ -126,6 +126,10 @@ RPG-Game/
 ├── localization/
 │   ├── en.json            # English translations
 │   └── ru.json            # Russian translations
+├── images/                # Screenshots
+│   ├── Main Menu.png
+│   ├── Battle.png
+│   └── Shop.png
 ├── requirements.txt       # Dependencies
 └── README.md
 ```
